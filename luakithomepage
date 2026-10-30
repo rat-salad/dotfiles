@@ -1,0 +1,21 @@
+<html>
+<body>
+<a href="https://metal-archives.com">Metal Archives</a>
+<br>
+<a href="https://discogs.com">Discogs</a>
+<br>
+<a href="https://last.fm/user/Cod-Metal-King">Last.fm</a>
+<br>
+<a href="https://4get.ca">4get</a>
+</body>
+<style>
+body {
+    font-family: "Xanh Mono";
+    background-color: Black;
+}
+a {
+    color: White;
+    text-decoration:none;
+}
+</style>
+</html>

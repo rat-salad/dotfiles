@@ -1,0 +1,6 @@
+cat ~/.cache/wal/sequences
+clear
+pfetch
+echo 
+
+PS1='$USER@$(cat /etc/hostname) [$?] $(pwd) $ '
